@@ -1,0 +1,388 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nom": "ahmed Mortada",
+      "email": "ahmed@gmail.com",
+      "password": "$2b$10$wzRsOlTKcvl19TU/N0PrDOTamzRy3rCzlbrs8gZva.v95JVrZYJFW",
+      "profil": {
+        "nom": "testeur",
+        "roles": [
+          "evaluer_performance_prediction",
+          "evaluer_performance_tendance"
+        ]
+      },
+      "trialStartDate": "2024-08-01T00:00:00Z",
+      "trialEndDate": "2024-08-31T23:59:59Z",
+      "isTrialActive": true
+    },
+    {
+      "id": 8,
+      "nom": "malak",
+      "email": "malak@gmail.com",
+      "password": "$2b$10$/GeJaB857EXhd33xsYDZOeVv7hKfz8PI7/lxpAfDOtAYVTu3rqisq",
+      "profil": {
+        "nom": "devloppeur",
+        "roles": [
+          "evaluer_performance_prediction",
+          "creer_modele_tendance",
+          "evaluer_performance_tendance"
+        ]
+      },
+      "trialStartDate": "2024-08-01T00:00:00Z",
+      "trialEndDate": "2024-08-31T23:59:59Z",
+      "isTrialActive": false
+    },
+    {
+      "id": 9,
+      "nom": "karima",
+      "email": "karima@gmail.com",
+      "password": "$2b$10$AzXBhOqUe9wBqjScKnhEnuefSDoFrXDWQT1tARJ6tBJExlWR2Pzde",
+      "profil": {
+        "nom": "devloppeur",
+        "roles": [
+          "evaluer_performance_prediction",
+          "creer_modele_tendance",
+          "evaluer_performance_tendance"
+        ]
+      },
+      "trialStartDate": "2024-08-01T00:00:00Z",
+      "trialEndDate": "2024-08-31T23:59:59Z",
+      "isTrialActive": false
+    },
+    {
+      "id": 10,
+      "nom": "dounia",
+      "email": "dounia@gmail.com",
+      "password": "$2b$10$u0S285Wh26gykBmGfFJ/revl.WQICVRF818fUJYqt4jRusJjjS2o2",
+      "profil": {
+        "nom": "analyste",
+        "roles": [
+          "creer_modele_tendance",
+          "evaluer_performance_prediction",
+          "evaluer_performance_tendance"
+        ]
+      },
+      "trialStartDate": "2024-08-01T00:00:00Z",
+      "trialEndDate": "2024-08-31T23:59:59Z",
+      "isTrialActive": false
+    },
+    {
+      "id": 11,
+      "nom": "najalaa",
+      "email": "najalaa@gmail.com",
+      "password": "$2b$10$iGAQAPiveabVedIYnJeFX.Ep2UJ6xHsx3u1BiiMtziDIwCBrtZq5u",
+      "profil": {
+        "nom": "chef_de_projet",
+        "roles": [
+          "deployer",
+          "partager"
+        ]
+      },
+      "trialStartDate": "2024-08-01T00:00:00Z",
+      "trialEndDate": "2024-08-31T23:59:59Z",
+      "isTrialActive": true
+    },
+    {
+      "id": 12,
+      "nom": "jamil",
+      "email": "jamila@gmail.com",
+      "password": "$2b$10$.OHdV0bOUsudSRYhs7IUP.MvhKx0r6.wl/XveFlCfkMrqZ6IK3Es2",
+      "profil": {
+        "nom": "analyste",
+        "roles": [
+          "creer_modele_tendance",
+          "evaluer_performance_prediction",
+          "evaluer_performance_tendance"
+        ]
+      },
+      "trialStartDate": "2024-07-01T00:00:00Z",
+      "trialEndDate": "2024-07-31T23:59:59Z",
+      "isTrialActive": false
+    },
+    {
+      "id": 13,
+      "nom": "alae alaaa",
+      "email": "alae@gmail.com",
+      "password": "$2b$10$yvT0lyisSiWCKs9fKZWQEef.piAfUaMlGuetv81rppsLc80JNlujW",
+      "profil": {
+        "nom": "chef_de_projet",
+        "roles": [
+          "deployer",
+          "partager"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "nom": "rim",
+      "email": "rim@gmail.com",
+      "password": "$2b$10$BZ3vTEmiXwAKxDzkbt/YguBvueJ63K0HiRzh7stx.Cko8EC/CdrxC",
+      "profil": {
+        "nom": "devloppeur",
+        "roles": [
+          "evaluer_performance_prediction",
+          "creer_modele_tendance",
+          "evaluer_performance_tendance"
+        ]
+      },
+      "trialStartDate": "2024-08-01T00:00:00Z",
+      "trialEndDate": "2024-08-31T23:59:59Z",
+      "isTrialActive": true
+    },
+    {
+      "id": 15,
+      "nom": "naima",
+      "email": "naima@gmail.com",
+      "password": "$2b$10$bCiqL1Cfg3917jvaqeK3FetW305jJvG2aTIk2cAAtztElCHxbQ042",
+      "profil": {
+        "nom": "admin",
+        "roles": [
+          "partager",
+          "evaluer_performance_prediction",
+          "creer_modele_tendance",
+          "evaluer_performance_tendance",
+          "deployer"
+        ]
+      },
+      "trialStartDate": "2024-08-01T00:00:00Z",
+      "trialEndDate": "2024-08-31T23:59:59Z",
+      "isTrialActive": true
+    },
+    {
+      "id": 17,
+      "nom": "narjiss",
+      "email": "narjiss@gmail.com",
+      "password": "$2b$10$pRkjuiAr6ENMUNsrtKakOuik/NtfdyB9Er4ntwg5Rk4rHx1AOIXqe",
+      "profil": {
+        "nom": "chef_de_projet",
+        "roles": [
+          "deployer",
+          "partager"
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "nom": "joudian",
+      "email": "joudia@gmail.com",
+      "password": "$2b$10$hmf41Tg3tG1y5o41NIULQOHOg.t1/SDIv3ToeiaNWr8L0vFZCZs9C",
+      "profil": {
+        "nom": "chef_de_projet",
+        "roles": [
+          "deployer",
+          "partager"
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "nom": "FAIZ",
+      "email": "faizo@gmail.com",
+      "password": "$2b$10$W1np6XqhuaJN.1zU.4Bg9OvQgQbezRMoTF4cmTyzG1QvUha2ONYVS",
+      "profil": {
+        "nom": "ingenieur",
+        "roles": [
+          "evaluer_performance_prediction",
+          "creer_modele_tendance",
+          "deployer"
+        ]
+      },
+      "isTrialActive": false
+    },
+    {
+      "id": "20",
+      "nom": "amina karam",
+      "email": "amina@gmail.com",
+      "password": "$2b$10$a4Vc3qs.8yvYEq5.jrmCwucN0f/VSDYkLwpttTB3dir9oAtOzv/AS",
+      "profil": {
+        "nom": "chef_de_projet",
+        "roles": [
+          "deployer",
+          "partager"
+        ]
+      },
+      "trialStartDate": "2024-07-30T13:32:01.098Z",
+      "trialEndDate": "2024-07-29T13:32:01.098Z",
+      "isTrialActive": false
+    },
+    {
+      "id": 21,
+      "nom": "khaoula",
+      "email": "khaoula@gmail.com",
+      "password": "$2b$10$CvvdaIS8hgq4mfhpp6V/Wuq6D/NSjz9lBiYmmpu8LIcjKwik4ddva",
+      "profil": {
+        "nom": "ingenieur",
+        "roles": [
+          "evaluer_performance_prediction",
+          "creer_modele_tendance",
+          "deployer"
+        ]
+      },
+      "trialStartDate": "2024-07-31T16:04:55.754Z",
+      "trialEndDate": "2024-08-30T16:04:55.754Z",
+      "isTrialActive": true
+    },
+    {
+      "id": "22",
+      "nom": "aline",
+      "email": "aline@gmail.com",
+      "password": "$2b$10$7GxeWx2aeyuBjxZJJS8I1OydCNztRouQC6scIf8/B1IhAJ03Yun5G",
+      "profil": {
+        "nom": "testeur",
+        "roles": [
+          "partager"
+        ]
+      },
+      "trialStartDate": "2024-08-01T13:49:35.009Z",
+      "trialEndDate": "2024-08-31T13:49:35.009Z",
+      "isTrialActive": true
+    },
+    {
+      "id": 23,
+      "nom": "malika",
+      "email": "malika@gmail.com",
+      "password": "$2b$10$alaop.dZqXNkAeCuPoJB1OTDb6KXIRcYykeM0zyauq347YWSoFu8.",
+      "profil": {
+        "nom": "testeur",
+        "roles": [
+          "deployer",
+          "partager"
+        ]
+      },
+      "trialStartDate": "2024-08-08T23:04:22.988Z",
+      "trialEndDate": "2024-09-07T23:04:22.988Z",
+      "isTrialActive": true
+    },
+    {
+      "id": 24,
+      "nom": "chaimae",
+      "email": "admin@gmail.com",
+      "password": "$2b$10$8OyMrsFhJTjcj2K7IDty9O4KRVLvo/Z0WnZOiDATsmcDdhM0XG0bS",
+      "profil": {
+        "nom": "admin",
+        "roles": [
+          "partager",
+          "evaluer_performance_prediction",
+          "creer_modele_tendance",
+          "evaluer_performance_tendance",
+          "deployer"
+        ]
+      },
+      "trialStartDate": "2024-08-09T10:46:38.628Z",
+      "trialEndDate": "2024-09-08T10:46:38.628Z",
+      "isTrialActive": true
+    }
+  ],
+  "profiles": [
+    {
+      "nom": "Testeur",
+      "roles": [
+        "evaluer_performance_prediction",
+        "evaluer_performance_tendance"
+      ]
+    },
+    {
+      "nom": "analyste",
+      "roles": [
+        "creer_modele_tendance",
+        "evaluer_performance_prediction",
+        "evaluer_performance_tendance"
+      ]
+    },
+    {
+      "nom": "testeur",
+      "roles": [
+        "deployer",
+        "partager"
+      ]
+    },
+    {
+      "nom": "devloppeur",
+      "roles": [
+        "evaluer_performance_prediction",
+        "creer_modele_tendance",
+        "evaluer_performance_tendance"
+      ]
+    },
+    {
+      "nom": "chef_de_projet",
+      "roles": [
+        "deployer",
+        "partager"
+      ]
+    },
+    {
+      "nom": "admin",
+      "roles": [
+        "partager",
+        "evaluer_performance_prediction",
+        "creer_modele_tendance",
+        "evaluer_performance_tendance",
+        "deployer"
+      ]
+    },
+    {
+      "nom": "ingenieur",
+      "roles": [
+        "evaluer_performance_prediction",
+        "creer_modele_tendance",
+        "deployer"
+      ]
+    },
+    {
+      "nom": "super ",
+      "roles": [
+        "evaluer_performance_tendance",
+        "deployer",
+        "partager"
+      ]
+    },
+    {
+      "nom": "datascientest",
+      "roles": [
+        "evaluer_performance_tendance"
+      ]
+    },
+    {
+      "nom": "data",
+      "roles": [
+        "deployer",
+        "partager"
+      ]
+    },
+    {
+      "nom": "analyste",
+      "roles": [
+        "deployer",
+        "partager"
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1722520175034,
+      "message": "New user registered: aline@gmail.com",
+      "createdAt": "2024-08-01T13:49:35.034Z",
+      "read": false
+    },
+    {
+      "id": 1723033901619,
+      "message": "New user registered: sihammh@gmail.com",
+      "createdAt": "2024-08-07T12:31:41.619Z",
+      "read": false
+    },
+    {
+      "id": 1723158262998,
+      "message": "Nouvel utilisateur créé : malika@gmail.com",
+      "createdAt": "2024-08-08T23:04:22.998Z",
+      "read": false
+    },
+    {
+      "id": 1723200398654,
+      "message": "Nouvel utilisateur créé : admin@gmail.com",
+      "createdAt": "2024-08-09T10:46:38.654Z",
+      "read": false
+    }
+  ]
+}
